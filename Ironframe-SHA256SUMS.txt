@@ -1,3 +1,0 @@
-Ironframe source and signing archive hashes (not APK hashes)
-a452a2d2f3af4e58206250b2575c10e69a5d81ab9ad3c771a6b203ceb3d7c090  Ironframe-APK-CI-Source.zip
-f16f9bb75146fcdf36c47a050286ebc0623bbf274742b086b060751cdec26cec  Ironframe-Signing-Kit.zip
